@@ -10,15 +10,27 @@ For better experience...
 
 # Installation
 
-'''
 
+```
+apt-get update -y
+```
+```
+apt-get upgrade -y
+```
+```
+pkg install git -y
+```
+```
 git clone https://github.com/LavSarkari/Termux-GuI
 
-cd Termux-GuI
-
+```
+```
 ls
-
+```
+```
+cd Termux-GuI                                                                                                                      ```
+```                                                                                                                                 $ ls
+```
 bash Termux-GuI
-
-'''
-
+```
+```
