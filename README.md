@@ -29,7 +29,7 @@ ls
 ```
 ```
 cd Termux-GuI                                                                                                                      ```
-```                                                                                                                                 $ ls
+                                                                                                                          $ ls
 ```
 bash Termux-GuI
 ```
